@@ -1,2 +1,2 @@
 # Neighborhood_Restaurant
-Coursera capstone 
+Setting up Indian Restaurants as per the average income of the people and competition in the area
